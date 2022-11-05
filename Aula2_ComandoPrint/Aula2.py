@@ -1,0 +1,7 @@
+print(2 + 2)
+print('Hello World ' * 4)
+print('1234' + '1234')
+print(1234 + 1234)
+print('Ka' + 'wan')
+print('Kawan', 'Pereira', sep='-', end='/')
+print(12)
